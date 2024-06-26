@@ -1,10 +1,10 @@
-package io.github.popehiflo.restaurant;
+package io.github.popehiflo.sales;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBoot3RestaurantBackendApplicationTests {
+class SpringBoot3SalesBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

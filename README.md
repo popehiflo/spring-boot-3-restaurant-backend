@@ -30,13 +30,13 @@ Colección de requests [Collection SB3-Restaurant-Backend](https://www.getpostma
 Se lista los distintos endpoints de la API. Tiene variables de entorno (URL_BASE, TOKEN).
 ## Descripción 💬
 API REST que permite el CRUD o ABM de los diferentes Enums, Entidades aquí listadas:
-- [Categories](src/main/java/io/github/popehiflo/restaurant/persistence/entity/Category.java): Categoría de productos.
-- [Products](src/main/java/io/github/popehiflo/restaurant/persistence/entity/Product.java): Productos.
-- [Invoices](src/main/java/io/github/popehiflo/restaurant/persistence/entity/Invoice.java): Facturas.
-- [Customers](src/main/java/io/github/popehiflo/restaurant/persistence/entity/Customer.java): Clientes.
-- [Profiles](src/main/java/io/github/popehiflo/restaurant/persistence/entity/Profile.java): Perfiles de Usuario.
-- [Users](src/main/java/io/github/popehiflo/restaurant/persistence/entity/User.java): Usuarios.
-- [Documents](src/main/java/io/github/popehiflo/restaurant/persistence/entity/DocumentType.java): Tipos de Documentos.
+- [Categories](src/main/java/io/github/popehiflo/sales/persistence/entity/Category.java): Categoría de productos.
+- [Products](src/main/java/io/github/popehiflo/sales/persistence/entity/Product.java): Productos.
+- [Invoices](src/main/java/io/github/popehiflo/sales/persistence/entity/Invoice.java): Facturas.
+- [Customers](src/main/java/io/github/popehiflo/sales/persistence/entity/Customer.java): Clientes.
+- [Profiles](src/main/java/io/github/popehiflo/sales/persistence/entity/Profile.java): Perfiles de Usuario.
+- [Users](src/main/java/io/github/popehiflo/sales/persistence/entity/User.java): Usuarios.
+- [Documents](src/main/java/io/github/popehiflo/sales/persistence/entity/DocumentType.java): Tipos de Documentos.
 
 ## Si encuentra un error o quiere sugerir una mejora 📧
 Siéntase libre de informar problemas/errores aquí:

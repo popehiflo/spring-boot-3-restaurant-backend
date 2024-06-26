@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.popehiflo</groupId>
-	<artifactId>spring-boot-3-restaurant-backend</artifactId>
+	<artifactId>spring-boot-3-sales-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-3-restaurant-backend</name>
 	<description>Proyecto demostrativo para la gestion de clientes, productos, facturas y demás que intervienen en un restaurante.</description>
